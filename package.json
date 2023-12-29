@@ -1,0 +1,23 @@
+{
+  "name": "zun-theme",
+  "displayName": "zun-theme",
+  "description": "my custom color theme based on one dark pro",
+  "icon": "icon/mo.png",
+  "publisher": "zunpeng",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "zun-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zun-color-theme.json"
+      }
+    ]
+  }
+}
