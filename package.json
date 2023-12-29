@@ -1,10 +1,10 @@
 {
   "name": "zun-theme",
   "displayName": "zun-theme",
-  "description": "my custom color theme based on one dark pro",
+  "description": "a custom dark color theme",
   "icon": "icon/mo.png",
   "publisher": "zunpeng",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.80.0"
   },
