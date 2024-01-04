@@ -1,23 +1,27 @@
 {
-  "name": "zun-theme",
-  "displayName": "zun-theme",
-  "description": "a custom dark color theme",
-  "icon": "icon/mo.png",
-  "publisher": "zunpeng",
-  "version": "0.0.3",
-  "engines": {
-    "vscode": "^1.80.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "zun-theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/zun-color-theme.json"
-      }
-    ]
-  }
+    "name": "zun-theme",
+    "displayName": "zun-theme",
+    "description": "a custom dark color theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zunpeng/zun-theme"
+    },
+    "icon": "icon/mo.png",
+    "publisher": "zunpeng",
+    "version": "0.0.4",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "zun-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zun-color-theme.json"
+            }
+        ]
+    }
 }

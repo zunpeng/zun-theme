@@ -2,8 +2,8 @@
 
 [GitHub Repo](https://github.com/zunpeng/zun-theme.git)
 ---
-![demo](https://github.com/zunpeng/zun-theme/blob/master/gif/demo.gif)
-![demo2](https://github.com/zunpeng/zun-theme/blob/master/gif/demo2.png)
+![demo](./gif/demo.gif)
+![demo2](./gif/demo2.png)
 
 ---
 
